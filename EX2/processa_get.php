@@ -54,7 +54,7 @@
         header("Location: index.html");
         exit();
     }
-
+    //Perdão professor, o código ta meio confuso pq tava acabando a aula
 ?>
 
 <button type="submit" name="botao">Sair</button>
